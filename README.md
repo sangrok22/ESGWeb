@@ -6,5 +6,5 @@
 
 ![백엔드흐름도](https://github.com/user-attachments/assets/5633692a-1699-437f-b3bc-8a918539ab55)
 
-#### 중소기업의 esg관련 정보를 넣으면 알맞은 해결책 도출
+#### 중소기업의 ESG관련 정보를 넣으면 알맞은 해결책 도출
 
